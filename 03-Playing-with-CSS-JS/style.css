@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --spacing: 0px;
+    --blur: 0px;
+    --base: #ffc600;  
+}
+
+.img1 {
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+    background: var(--base);
+}
