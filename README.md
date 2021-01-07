@@ -1,4 +1,4 @@
-##                                          JavaScript 30 Course Projects
+##                                          30 Day Vanilla JavaScript Challenge
 
 I tried to do these projects in order to improve myself and I also tried to add something extra to each project.
 
