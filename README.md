@@ -10,3 +10,4 @@ I tried to do these projects in order to improve myself and I also tried to add 
 05. [Flex Panel Gallery](https://github.com/MMKaragoz/JavaScript30/tree/main/05-Flex-Panel-Gallery)
 06. [Ajax Type Ahead](https://github.com/MMKaragoz/JavaScript30/tree/main/06-Ajax-Type-Ahead)
 07. [Array Cardio 2](https://github.com/MMKaragoz/JavaScript30/tree/main/07-Array-Cardio-2)
+08. [HTML5 Canvas](https://github.com/MMKaragoz/JavaScript30/tree/main/08-HTML-Canvas)
