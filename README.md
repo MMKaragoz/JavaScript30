@@ -1,6 +1,7 @@
 ##                                          30 Day Vanilla JavaScript Challenge
 
 I tried to do these projects in order to improve myself and I also tried to add something extra to each project.
+If you want to do these projects, you can reach them from [here](https://javascript30.com/)
 
 
 01. [JavaScript Drum Kit](https://github.com/MMKaragoz/JavaScript30/tree/main/01-Drum-Kit)
@@ -12,3 +13,4 @@ I tried to do these projects in order to improve myself and I also tried to add 
 07. [Array Cardio 2](https://github.com/MMKaragoz/JavaScript30/tree/main/07-Array-Cardio-2)
 08. [HTML5 Canvas](https://github.com/MMKaragoz/JavaScript30/tree/main/08-HTML-Canvas)
 09. [Dev Tools Tricks](https://github.com/MMKaragoz/JavaScript30/tree/main/09-Dev-Tools-Tricks)
+10. [Hold Shift and Check Checkboxes](https://github.com/MMKaragoz/JavaScript30/tree/main/10-Hold-Shift-Check-Checkboxes)
