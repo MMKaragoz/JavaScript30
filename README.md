@@ -14,3 +14,4 @@ If you want to do these projects, you can reach them from [here](https://javascr
 08. [HTML5 Canvas](https://github.com/MMKaragoz/JavaScript30/tree/main/08-HTML-Canvas)
 09. [Dev Tools Tricks](https://github.com/MMKaragoz/JavaScript30/tree/main/09-Dev-Tools-Tricks)
 10. [Hold Shift and Check Checkboxes](https://github.com/MMKaragoz/JavaScript30/tree/main/10-Hold-Shift-Check-Checkboxes)
+11. [HTML Video Player](https://github.com/MMKaragoz/JavaScript30/tree/main/11-HTML-Video-Player)
