@@ -18,3 +18,4 @@ If you want to do these projects, you can reach them from [here](https://javascr
 12. [Key Sequence Detection](https://github.com/MMKaragoz/JavaScript30/tree/main/12-Key-Sequence-Detection)
 13. [Slide In On Scroll](https://github.com/MMKaragoz/JavaScript30/tree/main/13-Slide-In-On-Scroll)
 14. [References VS Copies](https://github.com/MMKaragoz/JavaScript30/tree/main/14-References-VS-Copies)
+15. [Local Storage](https://github.com/MMKaragoz/JavaScript30/tree/main/15-LocalStorage)
