@@ -20,3 +20,4 @@ If you want to do these projects, you can reach them from [here](https://javascr
 14. [References VS Copies](https://github.com/MMKaragoz/JavaScript30/tree/main/14-References-VS-Copies)
 15. [Local Storage](https://github.com/MMKaragoz/JavaScript30/tree/main/15-LocalStorage)
 16. [Mouse Move Shadow](https://github.com/MMKaragoz/JavaScript30/tree/main/16-Mouse-Move-Shadow)
+17. [Sort Without Articles](https://github.com/MMKaragoz/JavaScript30/tree/main/17-Sort-Without-Articles)
