@@ -25,7 +25,7 @@ If you want to do these projects, you can reach them from [here](https://javascr
 19. 
 20.
 21. [Geolocation](https://github.com/MMKaragoz/JavaScript30/tree/main/21-Geolocation)
-22.
+22. [Follow Along Link](https://github.com/MMKaragoz/JavaScript30/tree/main/22-Follow-Along-Link)
 23.
 24.
 25.
