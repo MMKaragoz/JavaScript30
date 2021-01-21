@@ -28,7 +28,7 @@ If you want to do these projects, you can reach them from [here](https://javascr
 22. [Follow Along Link](https://github.com/MMKaragoz/JavaScript30/tree/main/22-Follow-Along-Link)
 23.
 24.
-25.
+25. [Event Capture Propagation Bubbling and Once](https://github.com/MMKaragoz/JavaScript30/tree/main/25-Event-Capture-Propagation-Bubbling-and-Once)
 26.
 27.
 28.
