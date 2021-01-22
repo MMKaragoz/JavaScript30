@@ -31,6 +31,6 @@ If you want to do these projects, you can reach them from [here](https://javascr
 25. [Event Capture Propagation Bubbling and Once](https://github.com/MMKaragoz/JavaScript30/tree/main/25-Event-Capture-Propagation-Bubbling-and-Once)
 26.
 27.
-28.
+28. [Video Speed Controller](https://github.com/MMKaragoz/JavaScript30/tree/main/28-Video-Speed-Controller)
 29.
 30.
