@@ -27,7 +27,7 @@ If you want to do these projects, you can reach them from [here](https://javascr
 21. [Geolocation](https://github.com/MMKaragoz/JavaScript30/tree/main/21-Geolocation)
 22. [Follow Along Link](https://github.com/MMKaragoz/JavaScript30/tree/main/22-Follow-Along-Link)
 23.
-24.
+24. [Sticky Nav](https://github.com/MMKaragoz/JavaScript30/tree/main/24-Sticky-Nav)
 25. [Event Capture Propagation Bubbling and Once](https://github.com/MMKaragoz/JavaScript30/tree/main/25-Event-Capture-Propagation-Bubbling-and-Once)
 26.
 27.
