@@ -33,4 +33,4 @@ If you want to do these projects, you can reach them from [here](https://javascr
 27. [Click and Drag](https://github.com/MMKaragoz/JavaScript30/tree/main/27-Click-and-Drag)
 28. [Video Speed Controller](https://github.com/MMKaragoz/JavaScript30/tree/main/28-Video-Speed-Controller)
 29.
-30.
+30. [Whack a Mole](https://github.com/MMKaragoz/JavaScript30/tree/main/30-Whack-a-Mole)
